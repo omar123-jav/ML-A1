@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df75a671-bf65-49d8-8163-80d6f8989860" name="Changes" comment="" />
+    <list default="true" id="df75a671-bf65-49d8-8163-80d6f8989860" name="Changes" comment="j" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,8 +42,19 @@
       <workItem from="1666786422387" duration="4307000" />
       <workItem from="1666790990332" duration="8579000" />
       <workItem from="1666862222151" duration="4696000" />
-      <workItem from="1666986274392" duration="7968000" />
+      <workItem from="1666986274392" duration="8722000" />
+      <workItem from="1667044498387" duration="1404000" />
+      <workItem from="1667045926114" duration="985000" />
+      <workItem from="1667063167440" duration="7082000" />
     </task>
+    <task id="LOCAL-00001" summary="j">
+      <created>1667069945113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667069945113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="j" />
+    <option name="LAST_COMMIT_MESSAGE" value="j" />
   </component>
 </project>
